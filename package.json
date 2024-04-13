@@ -1,0 +1,17 @@
+{
+    "name": "your-project-name",
+    "version": "1.0.0",
+    "description": "Your project description",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        
+        "tesseract.js": "^2.1.1",
+  "canvas": "^2.8.0"
+    }
+    
+}
